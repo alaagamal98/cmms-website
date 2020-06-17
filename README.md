@@ -78,7 +78,7 @@ Number 3
 ### 1) Abdulla Elsayed
 ### 2) Alaa Gamal
 ### 3) Marwa Adel 
-### 4) Salma hamza **Leader**
+### 4) Salma Hamza
 
 
 
